@@ -7,7 +7,7 @@
 #include <opencv2/opencv.hpp>
 #include <opencv2/core/core.hpp>
 
-#include "Net_KCF/kcftracker.hpp"
+#include "ROS_KCF/kcftracker.hpp"
 #include <dirent.h>
 
 // 保存订阅的图像
